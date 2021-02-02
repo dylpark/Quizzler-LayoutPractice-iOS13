@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     var questionNumber = 0
     
     let quiz = [
+        //12 Questions
         Question(q: "A slug's blood is green.", a: "True"),
         Question(q: "Approximately one quarter of human bones are in the feet.", a: "True"),
         Question(q: "The total surface area of two human lungs is approximately 70 square metres.", a: "True"),
